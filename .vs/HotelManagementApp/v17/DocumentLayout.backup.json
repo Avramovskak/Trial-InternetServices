@@ -1,0 +1,607 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmark\\Desktop\\trial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A5A08-B71B-4DC4-ADE6-04756016376C}|HotelManagement.WebApi\\HotelManagement.WebApi.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.webapi\\hotelmanagement.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A6A5A08-B71B-4DC4-ADE6-04756016376C}|HotelManagement.WebApi\\HotelManagement.WebApi.csproj|solutionrelative:hotelmanagement.webapi\\hotelmanagement.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A5A08-B71B-4DC4-ADE6-04756016376C}|HotelManagement.WebApi\\HotelManagement.WebApi.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A6A5A08-B71B-4DC4-ADE6-04756016376C}|HotelManagement.WebApi\\HotelManagement.WebApi.csproj|solutionrelative:hotelmanagement.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A5A08-B71B-4DC4-ADE6-04756016376C}|HotelManagement.WebApi\\HotelManagement.WebApi.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A6A5A08-B71B-4DC4-ADE6-04756016376C}|HotelManagement.WebApi\\HotelManagement.WebApi.csproj|solutionrelative:hotelmanagement.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A5A08-B71B-4DC4-ADE6-04756016376C}|HotelManagement.WebApi\\HotelManagement.WebApi.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6A5A08-B71B-4DC4-ADE6-04756016376C}|HotelManagement.WebApi\\HotelManagement.WebApi.csproj|solutionrelative:hotelmanagement.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A5A08-B71B-4DC4-ADE6-04756016376C}|HotelManagement.WebApi\\HotelManagement.WebApi.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.webapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6A5A08-B71B-4DC4-ADE6-04756016376C}|HotelManagement.WebApi\\HotelManagement.WebApi.csproj|solutionrelative:hotelmanagement.webapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6A5A08-B71B-4DC4-ADE6-04756016376C}|HotelManagement.WebApi\\HotelManagement.WebApi.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.webapi\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6A5A08-B71B-4DC4-ADE6-04756016376C}|HotelManagement.WebApi\\HotelManagement.WebApi.csproj|solutionrelative:hotelmanagement.webapi\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780A3C1D-37CC-48BA-872E-81049215851E}|HotelManagement.Tests\\HotelManagement.Tests.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.tests\\services\\roomservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780A3C1D-37CC-48BA-872E-81049215851E}|HotelManagement.Tests\\HotelManagement.Tests.csproj|solutionrelative:hotelmanagement.tests\\services\\roomservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780A3C1D-37CC-48BA-872E-81049215851E}|HotelManagement.Tests\\HotelManagement.Tests.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.tests\\services\\guestservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780A3C1D-37CC-48BA-872E-81049215851E}|HotelManagement.Tests\\HotelManagement.Tests.csproj|solutionrelative:hotelmanagement.tests\\services\\guestservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|solutionrelative:hotelmanagement.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.infrastructure\\repositories\\guestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|solutionrelative:hotelmanagement.infrastructure\\repositories\\guestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.infrastructure\\persistence\\migrations\\hoteldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|solutionrelative:hotelmanagement.infrastructure\\persistence\\migrations\\hoteldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.infrastructure\\persistence\\migrations\\20250518161512_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|solutionrelative:hotelmanagement.infrastructure\\persistence\\migrations\\20250518161512_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.infrastructure\\persistance\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|solutionrelative:hotelmanagement.infrastructure\\persistance\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.infrastructure\\persistance\\hoteldbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|solutionrelative:hotelmanagement.infrastructure\\persistance\\hoteldbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEA29BF-D480-4F2C-8777-4F81DFE326AF}|HotelManagement.Domain\\HotelManagement.Domain.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.domain\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEA29BF-D480-4F2C-8777-4F81DFE326AF}|HotelManagement.Domain\\HotelManagement.Domain.csproj|solutionrelative:hotelmanagement.domain\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEA29BF-D480-4F2C-8777-4F81DFE326AF}|HotelManagement.Domain\\HotelManagement.Domain.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.domain\\interfaces\\iguestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEA29BF-D480-4F2C-8777-4F81DFE326AF}|HotelManagement.Domain\\HotelManagement.Domain.csproj|solutionrelative:hotelmanagement.domain\\interfaces\\iguestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEA29BF-D480-4F2C-8777-4F81DFE326AF}|HotelManagement.Domain\\HotelManagement.Domain.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEA29BF-D480-4F2C-8777-4F81DFE326AF}|HotelManagement.Domain\\HotelManagement.Domain.csproj|solutionrelative:hotelmanagement.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEA29BF-D480-4F2C-8777-4F81DFE326AF}|HotelManagement.Domain\\HotelManagement.Domain.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.domain\\entities\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEA29BF-D480-4F2C-8777-4F81DFE326AF}|HotelManagement.Domain\\HotelManagement.Domain.csproj|solutionrelative:hotelmanagement.domain\\entities\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEA29BF-D480-4F2C-8777-4F81DFE326AF}|HotelManagement.Domain\\HotelManagement.Domain.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.domain\\hotelmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AEA29BF-D480-4F2C-8777-4F81DFE326AF}|HotelManagement.Domain\\HotelManagement.Domain.csproj|solutionrelative:hotelmanagement.domain\\hotelmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.application\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|solutionrelative:hotelmanagement.application\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.application\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|solutionrelative:hotelmanagement.application\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.application\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|solutionrelative:hotelmanagement.application\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.application\\interfaces\\iguestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|solutionrelative:hotelmanagement.application\\interfaces\\iguestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.application\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|solutionrelative:hotelmanagement.application\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.application\\dtos\\guestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|solutionrelative:hotelmanagement.application\\dtos\\guestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.application\\dtos\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|solutionrelative:hotelmanagement.application\\dtos\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.application\\dtos\\createguestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|solutionrelative:hotelmanagement.application\\dtos\\createguestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.application\\hotelmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{686BC85E-95B4-466D-ADD0-DF4049904095}|HotelManagement.Application\\HotelManagement.Application.csproj|solutionrelative:hotelmanagement.application\\hotelmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|c:\\users\\rmark\\desktop\\trial\\hotelmanagement.infrastructure\\hotelmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E28EC81E-2347-4E21-B14C-18C199B13468}|HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj|solutionrelative:hotelmanagement.infrastructure\\hotelmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "HotelManagement.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:28:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuestServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Tests\\Services\\GuestServiceTests.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Tests\\Services\\GuestServiceTests.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Tests\\Services\\GuestServiceTests.cs",
+              "RelativeToolTip": "HotelManagement.Tests\\Services\\GuestServiceTests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:32:41.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Tests\\Services\\RoomServiceTests.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Tests\\Services\\RoomServiceTests.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Tests\\Services\\RoomServiceTests.cs",
+              "RelativeToolTip": "HotelManagement.Tests\\Services\\RoomServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:32:50.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HotelManagement.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HotelManagement.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T16:41:36.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "HotelManagement.WebApi\\Controllers\\GuestController.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "HotelManagement.WebApi\\Controllers\\GuestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:30:48.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "HotelManagement.WebApi\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "HotelManagement.WebApi\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:31:00.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "HotelManagement.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\Program.cs",
+              "RelativeToolTip": "HotelManagement.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:12:40.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelManagement.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\appsettings.json",
+              "RelativeToolTip": "HotelManagement.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T16:12:29.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelManagement.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\HotelManagement.WebApi.csproj",
+              "RelativeDocumentMoniker": "HotelManagement.WebApi\\HotelManagement.WebApi.csproj",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\HotelManagement.WebApi.csproj",
+              "RelativeToolTip": "HotelManagement.WebApi\\HotelManagement.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T16:08:27.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GuestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\Repositories\\GuestRepository.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Infrastructure\\Repositories\\GuestRepository.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\Repositories\\GuestRepository.cs",
+              "RelativeToolTip": "HotelManagement.Infrastructure\\Repositories\\GuestRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:28:12.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HotelDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\Persistence\\Migrations\\HotelDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Infrastructure\\Persistence\\Migrations\\HotelDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\Persistence\\Migrations\\HotelDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HotelManagement.Infrastructure\\Persistence\\Migrations\\HotelDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:15:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250518161512_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\Persistence\\Migrations\\20250518161512_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Infrastructure\\Persistence\\Migrations\\20250518161512_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\Persistence\\Migrations\\20250518161512_InitialCreate.cs",
+              "RelativeToolTip": "HotelManagement.Infrastructure\\Persistence\\Migrations\\20250518161512_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:15:09.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGuestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Domain\\Interfaces\\IGuestRepository.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Domain\\Interfaces\\IGuestRepository.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Domain\\Interfaces\\IGuestRepository.cs",
+              "RelativeToolTip": "HotelManagement.Domain\\Interfaces\\IGuestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:27:25.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Domain\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Domain\\Entities\\Room.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Domain\\Entities\\Room.cs",
+              "RelativeToolTip": "HotelManagement.Domain\\Entities\\Room.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:09:37.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Domain\\Entities\\Guest.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Domain\\Entities\\Guest.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Domain\\Entities\\Guest.cs",
+              "RelativeToolTip": "HotelManagement.Domain\\Entities\\Guest.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:09:20.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HotelManagement.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Domain\\HotelManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "HotelManagement.Domain\\HotelManagement.Domain.csproj",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Domain\\HotelManagement.Domain.csproj",
+              "RelativeToolTip": "HotelManagement.Domain\\HotelManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T16:08:35.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Application\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\Services\\RoomService.cs",
+              "RelativeToolTip": "HotelManagement.Application\\Services\\RoomService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:30:04.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GuestService.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\Services\\GuestService.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Application\\Services\\GuestService.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\Services\\GuestService.cs",
+              "RelativeToolTip": "HotelManagement.Application\\Services\\GuestService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:29:26.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\Interfaces\\IRoomService.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Application\\Interfaces\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\Interfaces\\IRoomService.cs",
+              "RelativeToolTip": "HotelManagement.Application\\Interfaces\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:29:06.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Domain\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Domain\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Domain\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "HotelManagement.Domain\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:27:33.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\Persistance\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Infrastructure\\Persistance\\HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\Persistance\\HotelDbContext.cs",
+              "RelativeToolTip": "HotelManagement.Infrastructure\\Persistance\\HotelDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:10:08.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HotelDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\Persistance\\HotelDbContextFactory.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Infrastructure\\Persistance\\HotelDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\Persistance\\HotelDbContextFactory.cs",
+              "RelativeToolTip": "HotelManagement.Infrastructure\\Persistance\\HotelDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:14:59.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGuestService.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\Interfaces\\IGuestService.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Application\\Interfaces\\IGuestService.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\Interfaces\\IGuestService.cs",
+              "RelativeToolTip": "HotelManagement.Application\\Interfaces\\IGuestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:28:58.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\DTOs\\RoomDto.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Application\\DTOs\\RoomDto.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\DTOs\\RoomDto.cs",
+              "RelativeToolTip": "HotelManagement.Application\\DTOs\\RoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:26:37.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GuestDto.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\DTOs\\GuestDto.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Application\\DTOs\\GuestDto.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\DTOs\\GuestDto.cs",
+              "RelativeToolTip": "HotelManagement.Application\\DTOs\\GuestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:26:16.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateRoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\DTOs\\CreateRoomDto.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Application\\DTOs\\CreateRoomDto.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\DTOs\\CreateRoomDto.cs",
+              "RelativeToolTip": "HotelManagement.Application\\DTOs\\CreateRoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:26:47.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateGuestDto.cs",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\DTOs\\CreateGuestDto.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Application\\DTOs\\CreateGuestDto.cs",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\DTOs\\CreateGuestDto.cs",
+              "RelativeToolTip": "HotelManagement.Application\\DTOs\\CreateGuestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:26:27.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HotelManagement.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\HotelManagement.Application.csproj",
+              "RelativeDocumentMoniker": "HotelManagement.Application\\HotelManagement.Application.csproj",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\HotelManagement.Application.csproj",
+              "RelativeToolTip": "HotelManagement.Application\\HotelManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T16:25:47.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HotelManagement.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj",
+              "RelativeToolTip": "HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T16:10:21.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

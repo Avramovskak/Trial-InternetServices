@@ -1,0 +1,17 @@
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\bin\Debug\net9.0\HotelManagement.Infrastructure.deps.json
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\bin\Debug\net9.0\HotelManagement.Infrastructure.runtimeconfig.json
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\bin\Debug\net9.0\HotelManagement.Infrastructure.dll
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\bin\Debug\net9.0\HotelManagement.Infrastructure.pdb
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\bin\Debug\net9.0\HotelManagement.Domain.dll
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\bin\Debug\net9.0\HotelManagement.Domain.pdb
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\obj\Debug\net9.0\HotelManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\obj\Debug\net9.0\HotelManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\obj\Debug\net9.0\HotelManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\obj\Debug\net9.0\HotelManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\obj\Debug\net9.0\HotelManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\obj\Debug\net9.0\HotelMan.3E78A6F6.Up2Date
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\obj\Debug\net9.0\HotelManagement.Infrastructure.dll
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\obj\Debug\net9.0\refint\HotelManagement.Infrastructure.dll
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\obj\Debug\net9.0\HotelManagement.Infrastructure.pdb
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\obj\Debug\net9.0\HotelManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\rmark\Desktop\trial\HotelManagement.Infrastructure\obj\Debug\net9.0\ref\HotelManagement.Infrastructure.dll
