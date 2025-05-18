@@ -1702,42 +1702,31 @@
           }
         }
       },
-      "HotelManagement.Application/1.0.0": {
+      "HotelManagement.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "HotelManagement.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/HotelManagement.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/HotelManagement.Application.dll": {}
-        }
-      },
-      "HotelManagement.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "compile": {
-          "bin/placeholder/HotelManagement.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/HotelManagement.Domain.dll": {}
-        }
-      },
-      "HotelManagement.Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "dependencies": {
-          "HotelManagement.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.5"
         },
         "compile": {
-          "bin/placeholder/HotelManagement.Infrastructure.dll": {}
+          "bin/placeholder/HotelManagement.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/HotelManagement.Infrastructure.dll": {}
+          "bin/placeholder/HotelManagement.Data.dll": {}
+        }
+      },
+      "HotelManagement.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "HotelManagement.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HotelManagement.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HotelManagement.Service.dll": {}
         }
       }
     }
@@ -5157,49 +5146,44 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "HotelManagement.Application/1.0.0": {
+    "HotelManagement.Data/1.0.0": {
       "type": "project",
-      "path": "../HotelManagement.Application/HotelManagement.Application.csproj",
-      "msbuildProject": "../HotelManagement.Application/HotelManagement.Application.csproj"
+      "path": "../HotelManagement.Data/HotelManagement.Data.csproj",
+      "msbuildProject": "../HotelManagement.Data/HotelManagement.Data.csproj"
     },
-    "HotelManagement.Domain/1.0.0": {
+    "HotelManagement.Service/1.0.0": {
       "type": "project",
-      "path": "../HotelManagement.Domain/HotelManagement.Domain.csproj",
-      "msbuildProject": "../HotelManagement.Domain/HotelManagement.Domain.csproj"
-    },
-    "HotelManagement.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../HotelManagement.Infrastructure/HotelManagement.Infrastructure.csproj",
-      "msbuildProject": "../HotelManagement.Infrastructure/HotelManagement.Infrastructure.csproj"
+      "path": "../HotelManagement.Service/HotelManagement.Service.csproj",
+      "msbuildProject": "../HotelManagement.Service/HotelManagement.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "HotelManagement.Application >= 1.0.0",
-      "HotelManagement.Infrastructure >= 1.0.0",
+      "HotelManagement.Data >= 1.0.0",
+      "HotelManagement.Service >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.5",
       "Swashbuckle.AspNetCore >= 8.1.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rmark\\.nuget\\packages\\": {},
+    "C:\\Users\\Dushko\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\HotelManagement.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Dushko\\Desktop\\trial - Copy\\HotelManagement.WebApi\\HotelManagement.WebApi.csproj",
       "projectName": "HotelManagement.WebApi",
-      "projectPath": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\HotelManagement.WebApi.csproj",
-      "packagesPath": "C:\\Users\\rmark\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.WebApi\\obj\\",
+      "projectPath": "C:\\Users\\Dushko\\Desktop\\trial - Copy\\HotelManagement.WebApi\\HotelManagement.WebApi.csproj",
+      "packagesPath": "C:\\Users\\Dushko\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dushko\\Desktop\\trial - Copy\\HotelManagement.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rmark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dushko\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5214,11 +5198,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\HotelManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Application\\HotelManagement.Application.csproj"
+            "C:\\Users\\Dushko\\Desktop\\trial - Copy\\HotelManagement.Data\\HotelManagement.Data.csproj": {
+              "projectPath": "C:\\Users\\Dushko\\Desktop\\trial - Copy\\HotelManagement.Data\\HotelManagement.Data.csproj"
             },
-            "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\rmark\\Desktop\\trial\\HotelManagement.Infrastructure\\HotelManagement.Infrastructure.csproj"
+            "C:\\Users\\Dushko\\Desktop\\trial - Copy\\HotelManagement.Service\\HotelManagement.Service.csproj": {
+              "projectPath": "C:\\Users\\Dushko\\Desktop\\trial - Copy\\HotelManagement.Service\\HotelManagement.Service.csproj"
             }
           }
         }
@@ -5273,7 +5257,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

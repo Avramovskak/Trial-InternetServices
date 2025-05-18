@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HotelManagement.Application\HotelManagement.Application.csproj" />
-    <ProjectReference Include="..\HotelManagement.Infrastructure\HotelManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\HotelManagement.Data\HotelManagement.Data.csproj" />
+    <ProjectReference Include="..\HotelManagement.Service\HotelManagement.Service.csproj" />
   </ItemGroup>
 
 </Project>

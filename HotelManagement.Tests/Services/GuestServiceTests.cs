@@ -1,7 +1,7 @@
-﻿using HotelManagement.Application.DTOs;
-using HotelManagement.Application.Services;
-using HotelManagement.Domain.Entities;
-using HotelManagement.Domain.Interfaces;
+﻿using HotelManagement.Service.DTOs;
+using HotelManagement.Service.Services;
+using HotelManagement.Data.Entities;
+using HotelManagement.Data.Interfaces;
 using Moq;
 
 namespace HotelManagement.Tests.Services;
